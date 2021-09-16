@@ -1,5 +1,5 @@
 # airline_fare_prediction
-### Prediction of airline fare using regression model Random Forest 
+### Prediction of airline fare using regression model Random Forest and other Python libraries
 > Features in dataset include Airline, Source, Destination, Route, Departure and Arrival Time, Number of Stops and Price
 * Use of pandas and sea-born to pre-process data:
   * Conversion of columns into DateTime and handling missing values
